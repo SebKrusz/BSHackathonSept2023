@@ -65,7 +65,13 @@ header {
 .leftsidebar__whitespace {
   position: absolute;
   left: 0;
-  bottom: -50px;
+  bottom: -19px;
+}
+
+.leftsidebar__whitespace2 {
+  position: absolute;
+  left: 0;
+  bottom: -49px;
 }
 
 .header-left {
